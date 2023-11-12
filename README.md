@@ -1,6 +1,10 @@
 # BabbleSort-MPI
 
+Anata Ryu Ilhami (09011382126168)
+
 Agung Rizqi Ramadhan (09011382126157)
+
+Nanda Apriadi (09011382126170)
 
 program ini memerlukan 1 komputer yang bertindak sebagai master dan beberapa komputer lain yang bertindak sebagai slave
 
